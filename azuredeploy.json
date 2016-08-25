@@ -155,7 +155,8 @@
                                 "80:8080"
                             ],
                             "environment": [
-                                "[concat('SAPHO_DB_PASSWORD=',parameters('mySqlRootPw'))]"							
+                                "[concat('SAPHO_DB_PASSWORD=',parameters('mySqlRootPw'))]"
+                            ]
                         },
                         "mysql": {
                             "image": "mysql",
