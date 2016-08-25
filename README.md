@@ -10,7 +10,7 @@
 </a>
 
 
-TESTING:
+AzureDeploy.net deploy:
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https://github.com/lodotek/sapho-mysql-docker-azure)
 
 
