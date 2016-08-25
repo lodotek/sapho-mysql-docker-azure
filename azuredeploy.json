@@ -11,6 +11,13 @@
         "virtualMachineSize": {
             "type": "string"
         },
+        "clusterVmSize": {
+             "type": "string",
+             "defaultValue": "Standard_A2",
+             "metadata": {
+               "description": "Size of the VM"
+             }
+      },    
         "adminUsername": {
             "type": "string"
         },
