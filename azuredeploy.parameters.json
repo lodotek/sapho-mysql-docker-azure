@@ -11,6 +11,9 @@
         "virtualMachineSize": {
             "value": null
         },
+         "clusterVmSize": {
+            "value": "Standard_D1"
+         },
         "adminUsername": {
             "value": null
         },
