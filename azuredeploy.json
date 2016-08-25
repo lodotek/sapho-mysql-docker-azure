@@ -4,7 +4,7 @@
     "parameters": {
         "siteLocation": {
             "type": "string",
-            "defaultvalue": "East US"
+            "defaultValue": "East US"
         },
         "virtualMachineName": {
             "type": "string"
