@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "siteLocation": {
-            "type": "string"
+            "type": "string",
             "defaultvalue": "East US"
         },
         "virtualMachineName": {
