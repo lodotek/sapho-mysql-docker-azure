@@ -3,5 +3,5 @@
   "description": "This template allows you to deploy an Ubuntu VM with Docker installed (using the Docker Extension) with SAPHO(Tomcat) & MySQL containers.",
   "summary": "Deploy SAPHO on Azure with Docker",
   "githubUsername": "lodotek",
-  "dateUpdated": "2016-08-22"
+  "dateUpdated": "2017-05-03"
 }
